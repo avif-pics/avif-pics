@@ -76,8 +76,8 @@ MIT - Free to use, modify, and distribute.
 ## 🔗 Links
 
 - **Live Tool**: [avif.pics](https://avif.pics)
-- **HuggingFace Space**: [View on HuggingFace](https://huggingface.co/spaces/YOUR_USERNAME/avif-viewer)
-- **Indie Hackers**: [Read the story](https://www.indiehackers.com)
+- **HuggingFace Space**: [View on HuggingFace](https://huggingface.co/spaces/avif-pics/avif-pics)
+- **Indie Hackers**: [Read the story](https://www.indiehackers.com/product/avif-pics)
 
 ## 🙏 Support
 
